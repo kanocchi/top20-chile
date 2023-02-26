@@ -1,7 +1,7 @@
 # 🇪🇸 ¡Bienvenide al top 20 jugadores osu!standard de Chile!
 ### Organizado por Barack y kanocchi. GFX por dinonesie.
 
-***Las votaciones concluirán el 25 de Febrero.***
+~~*Las votaciones concluirán el 25 de Febrero.*~~ ***Se aplaza hasta el 28 de febrero (más información: https://twitter.com/thenameisBarack/status/1629958144267878405)***
 
 ## Reglas:
 
@@ -31,7 +31,7 @@ Se sumará la cantidad de puntos extra en cada voto si se dan las siguientes con
 # 🇬🇧 Welcome to the top 20 Chilean players of 2022!
 ### Organized by Barack and kanocchi. GFX by dinonesie.
 
-***Voting will close on February 25th.***
+~~*Voting will close on February 25th.*~~ ***Voting will extend till February 28th (more info: https://twitter.com/thenameisBarack/status/1629958144267878405)***
 
 ## Rules:
 
