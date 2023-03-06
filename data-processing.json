@@ -1,0 +1,26 @@
+{
+    "adders": {
+      "bws": [],
+      "owc": [],
+      "global": [{"from":1,"to":5000,"value":2},{"from":5001,"to":20000,"value":1}],
+      "country": [{"from":1,"to":100000000,"value":1}]
+    },
+    "settings": {
+      "additionalCountries": [],
+      "ignoreUsersAboveId": null,
+      "ignoreUserIds": [11305419, 10210657, 5298487],
+      "includePartialVotes": false,
+      "ignoreInternationalVotes": false,
+      "ignoreRestrictedOrUnknownUsers": true,
+      "ignoreUsersAboveGlobalRank": null,
+      "ignoreUsersAboveCountryRank": null,
+      "useInternationalCriteriaForEveryone": false
+    },
+    "multipliers": {
+      "bws": [],
+      "owc": [],
+      "global": [],
+      "country": []
+    },
+    "pointDistribution": [5,4,4,3,3,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1]
+  }
